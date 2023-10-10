@@ -14,7 +14,7 @@ Le backend est une serveur Node.js.
 
 Comme prérequis système, il vous faut:
 
-- Node.js 18 LTS ([Télécharger](https://nodejs.org/en/download/))
+- Node.js 18 LTS ([Télécharger](https://nodejs.org/en/download/)), sur MacOS, `sudo apt install nodejs && sudo apt install npm` sur Ubuntu/Debian)
 - sqlite3 ([sqlite Homebrew](https://formulae.brew.sh/formula/sqlite) sur MacOS, `sudo apt install sqlite3` sur Ubuntu/Debian)
 - openssl ([OpenSSL 3 Homebrew](https://formulae.brew.sh/formula/openssl@3) sur MacOS, `sudo apt install openssl` sur Ubuntu/Debian)
 
