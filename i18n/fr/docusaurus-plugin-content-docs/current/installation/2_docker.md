@@ -4,7 +4,7 @@ title: Installation avec Docker
 sidebar_label: Docker
 ---
 
-Ce tutoriel vous explique comment installer Gladys manuellement avec Docker, quel que soit la machine sur laquelle vous faites tourner Gladys : Un Raspberry Pi, un NAS Synology, une VM linux, peu importe.
+Ce tutoriel vous explique comment installer Gladys manuellement avec Docker, quelque soit la machine sur laquelle vous faites tourner Gladys : Un Raspberry Pi, un NAS Synology, une VM linux, peu importe.
 
 ## Installer Docker
 
@@ -83,6 +83,6 @@ docker run -d \
 
 ## Accéder à Gladys Assistant sur le navigateur
 
-Vous pouvez accéder à Gladys en saisissant l'IP de votre machine sur votre navigateur, vous devez être sur le même réseau que la machine attention !
+Vous pouvez accéder à Gladys en saisissant l'IP de votre machine sur votre navigateur, attention vous devez être sur le même réseau que la machine !
 
 Pour trouver l'IP de votre machine, si vous êtes sur le même réseau local, vous pouvez utiliser des apps comme ([Network Scanner](https://play.google.com/store/apps/details?id=com.easymobile.lan.scanner&hl=fr) sur Android ou [iNet](https://itunes.apple.com/fr/app/inet-network-scanner/id340793353?mt=8) sur iOS).
