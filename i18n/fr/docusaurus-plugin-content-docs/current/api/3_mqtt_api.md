@@ -69,3 +69,8 @@ Par exemple, pour la scène `http://192.168.1.10/dashboard/scene/cinema`, il fau
 ```
 gladys/master/scene/cinema/start
 ```
+
+Vous pouvez également envoyer/recevoir des données depuis des capteurs de Gladys avec un programme externe, ici par exemple en node.js sur le tuto suivant : "Utiliser l'API MQTT de Gladys Assistant 4 en Node.js (Live coding)" 
+<div class="youtubeVideoContainerInBlog">
+<iframe  src="https://www.youtube.com/watch?v=o5yn_FnYtkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
